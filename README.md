@@ -7,7 +7,7 @@ Template de documentação de Projeto de Software
 ## Documento de Arquitetura
 [Template_Documento_de_Arquitetura.doc](https://github.com/goias/docs/blob/master/Template_Documento_de_Arquitetura.doc)
 
-## Documento de Visao do Projeto
+## Documento de Visão do Projeto
 [Modelo_Documento_Visao_Projeto.odt](https://github.com/goias/docs/blob/master/Modelo_Documento_Visao_Projeto.odt)
 
 ## Documento de Requisitos
