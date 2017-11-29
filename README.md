@@ -15,6 +15,7 @@ Template de documentação de Projeto de Software
 
 ## Documento Padrão Visual e Tecnológico Portais
 [SCTI_padrao_tecnologico_portais.pdf](https://github.com/goias/docs/blob/master/SCTI_padrao_tecnologico_portais.pdf)
+
 [SCTI_padrao_visual_portais.pdf](https://github.com/goias/docs/blob/master/SCTI_padrao_visual_portais.pdf)
 
 
